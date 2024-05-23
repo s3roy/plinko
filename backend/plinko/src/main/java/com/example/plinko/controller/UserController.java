@@ -5,10 +5,10 @@ import com.example.plinko.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.Base64;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Optional;
+import java.util.Base64;
 
 @RestController
 @RequestMapping("/users")

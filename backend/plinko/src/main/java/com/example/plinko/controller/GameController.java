@@ -1,7 +1,6 @@
 package com.example.plinko.controller;
 
 import com.example.plinko.model.User;
-import com.example.plinko.repository.UserRepository;
 import com.example.plinko.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
